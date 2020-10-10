@@ -1,11 +1,12 @@
 # Hello there :wave:
 
 ## Surprise~
-Scan the QR code, then scan the profile pic at left side :arrow_left: for surprise! → Barbara is :sparkling_heart:
+<p align=center>Scan the QR code, then scan the profile pic at left side :arrow_left: for surprise! <img src="/icon/ar-code.png" height="80px"></p>
 
-<img src="/icon/ar-code.png" height="150px"><img src="/icon/barbara-jean.png" height="435px">
+## 芭芭拉 / バーバラ / Barbara is :sparkling_heart: | :cupid: | :smiling_face_with_three_hearts:
+<p align=center><strong> ♡ Barbara + Jean ♡ </strong></p>
 
-<!--  ![icon]()  ![barbara<3](icon/ar-code.png)-->
+![banner](/icon/barbara-jean.png)
 
 <!--
 **xenoney/xenoney** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
