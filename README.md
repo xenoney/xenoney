@@ -1,11 +1,11 @@
 # Hello there :wave:
 
-![icon](icon/barbara-jean.png)
-
 ## Surprise~
-Scan this QR code, then scan the profile pic for surprise!
+Scan the QR code, then scan the profile pic at left side :arrow_left: for surprise! → Barbara is :sparkling_heart:
 
-![barbara<3](icon/ar-code.png)
+<img src="/icon/ar-code.png" height="150px"><img src="/icon/barbara-jean.png" height="435px">
+
+<!--  ![icon]()  ![barbara<3](icon/ar-code.png)-->
 
 <!--
 **xenoney/xenoney** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
