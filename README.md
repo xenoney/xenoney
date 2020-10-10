@@ -1,7 +1,9 @@
 # Hello there :wave:
 
 ## Surprise~
-<p align=center>Scan the QR code, then scan the profile pic at left side :arrow_left: for surprise! <img src="/icon/ar-code.png" height="80px"></p>
+<p align="center"><em>Scan the QR code, then scan the profile pic at left side :arrow_left: for <strong>suuurprise~</strong></em></p>
+
+<p align="center"><img src="/icon/ar-code.png" height="80px"></p>
 
 ## 芭芭拉 / バーバラ / Barbara is :sparkling_heart: | :cupid: | :smiling_face_with_three_hearts:
 <p align=center><strong> ♡ Barbara + Jean ♡ </strong></p>
